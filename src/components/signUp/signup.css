@@ -4,17 +4,18 @@
     flex-direction: column;
     position: relative; 
     font-family: 'Red Rose', serif;
+    height: 595px;
 }
 
 .signup-outter-container > a img {
     position: absolute;
     left: 33.5%;
-    top: 125px;
+    top: 45px;
     width: 3%;
 }
 .signup-container{
     margin: auto;
-    margin-top: 15vh; 
+    margin-top: 5vh; 
     width: 488px;    
     border-radius: 3px;    
     background-color: #fff;

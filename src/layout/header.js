@@ -11,7 +11,10 @@ const Navbar = () => {
             <h1>AEGIS</h1>
           </Link>          
           <div className="autenticacion">
-            <Link className="ingresar" to="/dashboard">
+            <Link className="registrarse" to="/signUp">
+                <h2>Registrarse</h2>
+            </Link>
+            <Link className="ingresar" to="/crearPostulante">
                 <h2>Ingresar</h2>
             </Link>
             <Link className="salir" to="/">

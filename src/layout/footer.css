@@ -1,6 +1,4 @@
-footer {
-    position: absolute;
-    bottom: 0;
+footer {    
     width: 100vw;
     height: 15vh;
     background: rgba(0,0,0,0.75);

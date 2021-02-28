@@ -3,11 +3,12 @@
     display: flex;
     flex-direction: column;
     position: relative; 
-    font-family: 'Red Rose', serif;  
+    font-family: 'Red Rose', serif; 
+    height: 595px; 
 }
 
 .container {        
-    margin: auto;
+    margin: 0 auto;
     margin-top: 8vh; 
     width: 488px;
     height: 356px;
